@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67034c1fa25801f3228de3da"
+  },
+  "nombre": "ABNER SANTIS"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3dc"
+  },
+  "nombre": "DANIEL LOPEZ"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3dd"
+  },
+  "nombre": "DAVID PACHECO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3de"
+  },
+  "nombre": "EDUARDO GARCIA"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3df"
+  },
+  "nombre": "GERARDO SANCHEZ"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e0"
+  },
+  "nombre": "ISAAC DURAN"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e1"
+  },
+  "nombre": "OSCAR RENTERIA"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e2"
+  },
+  "nombre": "RAUL JAVIER"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e3"
+  },
+  "nombre": "SAMUEL CASTRO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e4"
+  },
+  "nombre": "SAMUEL GUATEMALA"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e5"
+  },
+  "nombre": "ALDO GARCIA"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e6"
+  },
+  "nombre": "JONATHAN TORRES"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e7"
+  },
+  "nombre": "ABEL HUMBERTO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e8"
+  },
+  "nombre": "ESTEBAN VILLALEJO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3e9"
+  },
+  "nombre": "OSCAR ESPINOBARROS"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3ea"
+  },
+  "nombre": "PEDRO OLALDE"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3eb"
+  },
+  "nombre": "ALAN POLO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3ec"
+  },
+  "nombre": "BRAULIO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3ed"
+  },
+  "nombre": "LUIS COLOY"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3ee"
+  },
+  "nombre": "LUIS HERNANDEZ"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3ef"
+  },
+  "nombre": "ABELARDO HERNANDEZ"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f0"
+  },
+  "nombre": "DAVID RODRIGUEZ"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f1"
+  },
+  "nombre": "DIEGO LUNA"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f2"
+  },
+  "nombre": "EDWIN VENEGAS"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f3"
+  },
+  "nombre": "JEREMIAS GONZALES"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f4"
+  },
+  "nombre": "JUAN CASTELLANOS"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f5"
+  },
+  "nombre": "OSVALDO DEL RIO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f6"
+  },
+  "nombre": "DANIEL ALFARO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f7"
+  },
+  "nombre": "HERNAN TERCERO"
+},
+{
+  "_id": {
+    "$oid": "67034c6ea25801f3228de3f8"
+  },
+  "nombre": "CARLOS DIAZ"
+}]
