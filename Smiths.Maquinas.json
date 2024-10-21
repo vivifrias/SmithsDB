@@ -1,0 +1,609 @@
+[{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ac"
+  },
+  "NOMBRE_BASE": "AMI TESTER-11877",
+  "NUEVO_NOMBRE": "AMI11877"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ad"
+  },
+  "NOMBRE_BASE": "AMI TESTER-11878",
+  "NUEVO_NOMBRE": "AMI11878"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ae"
+  },
+  "NOMBRE_BASE": "AMI TESTER-11879",
+  "NUEVO_NOMBRE": "AMI11879"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976af"
+  },
+  "NOMBRE_BASE": "COMPARADORES-1256",
+  "NUEVO_NOMBRE": "COM1256"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b0"
+  },
+  "NOMBRE_BASE": "COMPARADORES-506",
+  "NUEVO_NOMBRE": "COM506"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b1"
+  },
+  "NOMBRE_BASE": "COMPARADORES-872",
+  "NUEVO_NOMBRE": "COM872"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b2"
+  },
+  "NOMBRE_BASE": "COMPARADORES-873",
+  "NUEVO_NOMBRE": "COM873"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b3"
+  },
+  "NOMBRE_BASE": "EDDY CURRENT-12139",
+  "NUEVO_NOMBRE": "EC12139"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b4"
+  },
+  "NOMBRE_BASE": "EDDY CURRENT-11964",
+  "NUEVO_NOMBRE": "EC11964"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b5"
+  },
+  "NOMBRE_BASE": "EDDY CURRENT-372",
+  "NUEVO_NOMBRE": "EC372"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b6"
+  },
+  "NOMBRE_BASE": "EDDY CURRENT-725",
+  "NUEVO_NOMBRE": "EC725"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b7"
+  },
+  "NOMBRE_BASE": "LIJADORA",
+  "NUEVO_NOMBRE": "LIJADORA"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b8"
+  },
+  "NOMBRE_BASE": "MANT/SOPORTE GENERAL",
+  "NUEVO_NOMBRE": "OEM MP"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976b9"
+  },
+  "NOMBRE_BASE": "Marcadora Laser",
+  "NUEVO_NOMBRE": "Laser"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ba"
+  },
+  "NOMBRE_BASE": "MINI CRIMPER-440",
+  "NUEVO_NOMBRE": "MC440"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976bb"
+  },
+  "NOMBRE_BASE": "MINI CRIMPER-454",
+  "NUEVO_NOMBRE": "MC542"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976bc"
+  },
+  "NOMBRE_BASE": "MINI CRIMPER ROBOT-454",
+  "NUEVO_NOMBRE": "MCR454"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976bd"
+  },
+  "NOMBRE_BASE": "PR",
+  "NUEVO_NOMBRE": "PR9311"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976be"
+  },
+  "NOMBRE_BASE": "PR996",
+  "NUEVO_NOMBRE": "PR996"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976bf"
+  },
+  "NOMBRE_BASE": "PRENSA-10100",
+  "NUEVO_NOMBRE": "PR10100"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c0"
+  },
+  "NOMBRE_BASE": "Prensa-1164",
+  "NUEVO_NOMBRE": "PR1164"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c1"
+  },
+  "NOMBRE_BASE": "Prensa-1182",
+  "NUEVO_NOMBRE": "PR1182"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c2"
+  },
+  "NOMBRE_BASE": "Prensa-1239",
+  "NUEVO_NOMBRE": "PR1239"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c3"
+  },
+  "NOMBRE_BASE": "Prensa-1240",
+  "NUEVO_NOMBRE": "PR1240"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c4"
+  },
+  "NOMBRE_BASE": "Prensa-1336",
+  "NUEVO_NOMBRE": "PR1336"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c5"
+  },
+  "NOMBRE_BASE": "Prensa-1337",
+  "NUEVO_NOMBRE": "PR1337"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c6"
+  },
+  "NOMBRE_BASE": "Prensa-1414",
+  "NUEVO_NOMBRE": "PR1414"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c7"
+  },
+  "NOMBRE_BASE": "Prensa-1415",
+  "NUEVO_NOMBRE": "PR1415"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c8"
+  },
+  "NOMBRE_BASE": "Prensa-1422",
+  "NUEVO_NOMBRE": "PR1422"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976c9"
+  },
+  "NOMBRE_BASE": "Prensa-1837",
+  "NUEVO_NOMBRE": "PR1837"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ca"
+  },
+  "NOMBRE_BASE": "Prensa-1838",
+  "NUEVO_NOMBRE": "PR1838"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976cb"
+  },
+  "NOMBRE_BASE": "Prensa-1839",
+  "NUEVO_NOMBRE": "PR1839"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976cc"
+  },
+  "NOMBRE_BASE": "Prensa-1841",
+  "NUEVO_NOMBRE": "PR1841"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976cd"
+  },
+  "NOMBRE_BASE": "Prensa-760",
+  "NUEVO_NOMBRE": "PR760"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ce"
+  },
+  "NOMBRE_BASE": "Prensa-766",
+  "NUEVO_NOMBRE": "PR766"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976cf"
+  },
+  "NOMBRE_BASE": "Prensa-767",
+  "NUEVO_NOMBRE": "PR767"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d0"
+  },
+  "NOMBRE_BASE": "Prensa-997",
+  "NUEVO_NOMBRE": "PR997"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d1"
+  },
+  "NOMBRE_BASE": "Prensa-998",
+  "NUEVO_NOMBRE": "PR998"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d2"
+  },
+  "NOMBRE_BASE": "PUNCH CRIMPER-12051",
+  "NUEVO_NOMBRE": "PC12051"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d3"
+  },
+  "NOMBRE_BASE": "PUNCH CRIMPER-12052",
+  "NUEVO_NOMBRE": "PC12052"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d4"
+  },
+  "NOMBRE_BASE": "RAYOS X",
+  "NUEVO_NOMBRE": "RX"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d5"
+  },
+  "NOMBRE_BASE": "REMACHADORA-1",
+  "NUEVO_NOMBRE": "REMACHADORA"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d6"
+  },
+  "NOMBRE_BASE": "S-BENT-10120",
+  "NUEVO_NOMBRE": "SB10120"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d7"
+  },
+  "NOMBRE_BASE": "S-BENT1201",
+  "NUEVO_NOMBRE": "SB1201"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d8"
+  },
+  "NOMBRE_BASE": "S-BENT-1982",
+  "NUEVO_NOMBRE": "SB1982"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976d9"
+  },
+  "NOMBRE_BASE": "SOLDER CAP 217",
+  "NUEVO_NOMBRE": "SC217"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976da"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP ROBOT-20477",
+  "NUEVO_NOMBRE": "SCR20477"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976db"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP ROBOT-609",
+  "NUEVO_NOMBRE": "SCR609"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976dc"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP ROBOT-618",
+  "NUEVO_NOMBRE": "SCR618"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976dd"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-146",
+  "NUEVO_NOMBRE": "SC146"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976de"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-149",
+  "NUEVO_NOMBRE": "SC149"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976df"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-150",
+  "NUEVO_NOMBRE": "SC150"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e0"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-152",
+  "NUEVO_NOMBRE": "SC152"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e1"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-153",
+  "NUEVO_NOMBRE": "SC153"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e2"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-157",
+  "NUEVO_NOMBRE": "SC157"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e3"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-160",
+  "NUEVO_NOMBRE": "SC160"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e4"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-168",
+  "NUEVO_NOMBRE": "SC168"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e5"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-172",
+  "NUEVO_NOMBRE": "SC172"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e6"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-173",
+  "NUEVO_NOMBRE": "SC173"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e7"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-21",
+  "NUEVO_NOMBRE": "SC21"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e8"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-28",
+  "NUEVO_NOMBRE": "SC28"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976e9"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-29",
+  "NUEVO_NOMBRE": "SC29"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ea"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-458",
+  "NUEVO_NOMBRE": "SC458"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976eb"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-46",
+  "NUEVO_NOMBRE": "SC46"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ec"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-475",
+  "NUEVO_NOMBRE": "SC475"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ed"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-476",
+  "NUEVO_NOMBRE": "SC476"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ee"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-48",
+  "NUEVO_NOMBRE": "SC48"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ef"
+  },
+  "NOMBRE_BASE": "SPIN CRIMP-50",
+  "NUEVO_NOMBRE": "SC50"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f0"
+  },
+  "NOMBRE_BASE": "SPIN CRIMPEROBOT-456",
+  "NUEVO_NOMBRE": "SCR456"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f1"
+  },
+  "NOMBRE_BASE": "SPIN CRIMPEROBOT-577",
+  "NUEVO_NOMBRE": "SCR577"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f2"
+  },
+  "NOMBRE_BASE": "SPIN CRIMPEROBOT-636",
+  "NUEVO_NOMBRE": "SCR636"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f3"
+  },
+  "NOMBRE_BASE": "SPIN CRIMPEROBOT-712",
+  "NUEVO_NOMBRE": "SCR712"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f4"
+  },
+  "NOMBRE_BASE": "SPIN CRIMPEROBOT-536",
+  "NUEVO_NOMBRE": "SCR536"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f5"
+  },
+  "NOMBRE_BASE": "SpinCrimp-30",
+  "NUEVO_NOMBRE": "SC30"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f6"
+  },
+  "NOMBRE_BASE": "STICHER-1165",
+  "NUEVO_NOMBRE": "SCH1165"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f7"
+  },
+  "NOMBRE_BASE": "SWAGE-1344",
+  "NUEVO_NOMBRE": "SW1344"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f8"
+  },
+  "NOMBRE_BASE": "SWAGE-578",
+  "NUEVO_NOMBRE": "SW578"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976f9"
+  },
+  "NOMBRE_BASE": "SWAGE-695",
+  "NUEVO_NOMBRE": "SW695"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976fa"
+  },
+  "NOMBRE_BASE": "SWAGE-833",
+  "NUEVO_NOMBRE": "SW833"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976fb"
+  },
+  "NOMBRE_BASE": "SWAGE-953",
+  "NUEVO_NOMBRE": "SW953"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976fc"
+  },
+  "NOMBRE_BASE": "V. ROBOT-559",
+  "NUEVO_NOMBRE": "VR559"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976fd"
+  },
+  "NOMBRE_BASE": "VERSA-978",
+  "NUEVO_NOMBRE": "V978"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976fe"
+  },
+  "NOMBRE_BASE": "VERSA-983",
+  "NUEVO_NOMBRE": "V983"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac976ff"
+  },
+  "NOMBRE_BASE": "Prensa-1831",
+  "NUEVO_NOMBRE": "PR1831"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac97700"
+  },
+  "NOMBRE_BASE": "Prensa-1982",
+  "NUEVO_NOMBRE": "PR1982"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac97701"
+  },
+  "NOMBRE_BASE": "DESCANSO",
+  "NUEVO_NOMBRE": "DES"
+},
+{
+  "_id": {
+    "$oid": "670da0172609d96a4ac97702"
+  },
+  "NOMBRE_BASE": "MINI CRIMPER-498",
+  "NUEVO_NOMBRE": "MC498"
+}]

@@ -1,0 +1,664 @@
+[{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765ec"
+  },
+  "CODIGO_FALLA": "5S",
+  "DESCRIPCION": "5S",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765ed"
+  },
+  "CODIGO_FALLA": "AC",
+  "DESCRIPCION": "AJUSTE DE CAMARA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765ee"
+  },
+  "CODIGO_FALLA": "ADC",
+  "DESCRIPCION": "AJUSTE DE CAP",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765ef"
+  },
+  "CODIGO_FALLA": "ADCT",
+  "DESCRIPCION": "AJUSTE DE COLLET",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f0"
+  },
+  "CODIGO_FALLA": "ADL",
+  "DESCRIPCION": "AJUSTE DE LIBRAJE",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f1"
+  },
+  "CODIGO_FALLA": "ADN",
+  "DESCRIPCION": "AJUSTE DE NAVAJA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f2"
+  },
+  "CODIGO_FALLA": "ADR",
+  "DESCRIPCION": "AJUSTE DE ROBOT",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f3"
+  },
+  "CODIGO_FALLA": "AL",
+  "DESCRIPCION": "AJUSTE DE LEVA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f4"
+  },
+  "CODIGO_FALLA": "AP",
+  "DESCRIPCION": "AJUSTE DE PINZAS",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f5"
+  },
+  "CODIGO_FALLA": "AR",
+  "DESCRIPCION": "AJUSTE DE REVOLUCIONES",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f6"
+  },
+  "CODIGO_FALLA": "AS",
+  "DESCRIPCION": "AJUSTE DE SENSOR",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f7"
+  },
+  "CODIGO_FALLA": "BR",
+  "DESCRIPCION": "BANDA ROTA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f8"
+  },
+  "CODIGO_FALLA": "CALIDAD",
+  "DESCRIPCION": "CALIDAD",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765f9"
+  },
+  "CODIGO_FALLA": "CI",
+  "DESCRIPCION": "CICLO INCOMPLETO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765fa"
+  },
+  "CODIGO_FALLA": "CNJ",
+  "DESCRIPCION": "COLLET NO SUJETA PIEZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765fb"
+  },
+  "CODIGO_FALLA": "CPA",
+  "DESCRIPCION": "CAMBIO DE PLACA A AMI",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765fc"
+  },
+  "CODIGO_FALLA": "CR",
+  "DESCRIPCION": "CAMBIO DE ROLLO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765fd"
+  },
+  "CODIGO_FALLA": "DL",
+  "DESCRIPCION": "DIMPLE LIGERO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765fe"
+  },
+  "CODIGO_FALLA": "DP",
+  "DESCRIPCION": "DIMPLE PROFUNDO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf765ff"
+  },
+  "CODIGO_FALLA": "EDC",
+  "DESCRIPCION": "ERROR DE CODIGO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76600"
+  },
+  "CODIGO_FALLA": "ENT",
+  "DESCRIPCION": "ENTRENAMIENTO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76601"
+  },
+  "CODIGO_FALLA": "FPF",
+  "DESCRIPCION": "FALLA EN PRUEBA DE FUERZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76602"
+  },
+  "CODIGO_FALLA": "FPLC",
+  "DESCRIPCION": "FALLAS PLC",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76603"
+  },
+  "CODIGO_FALLA": "GA",
+  "DESCRIPCION": "GAGE BIERTO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76604"
+  },
+  "CODIGO_FALLA": "GC",
+  "DESCRIPCION": "GAGE CERRADO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76605"
+  },
+  "CODIGO_FALLA": "GEB",
+  "DESCRIPCION": "GOLPES EN EL BARRIL",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76606"
+  },
+  "CODIGO_FALLA": "GP",
+  "DESCRIPCION": "GOLPES EN PIEZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76607"
+  },
+  "CODIGO_FALLA": "ING",
+  "DESCRIPCION": "INGENIERIA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76608"
+  },
+  "CODIGO_FALLA": "KAIZEN",
+  "DESCRIPCION": "KAIZEN",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76609"
+  },
+  "CODIGO_FALLA": "LAYOUT",
+  "DESCRIPCION": "LAYOUT-MOVIMIENTO DE MESAS",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7660a"
+  },
+  "CODIGO_FALLA": "LN",
+  "DESCRIPCION": "LIMPIEZA DE NAVAJA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7660b"
+  },
+  "CODIGO_FALLA": "M",
+  "DESCRIPCION": "MEJORAS",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7660c"
+  },
+  "CODIGO_FALLA": "MC",
+  "DESCRIPCION": "MAL CRIMPEO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7660d"
+  },
+  "CODIGO_FALLA": "MDC",
+  "DESCRIPCION": "MARCAS DE COLLET",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7660e"
+  },
+  "CODIGO_FALLA": "MDM",
+  "DESCRIPCION": "MEJORA DE MANTENIMIENTO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7660f"
+  },
+  "CODIGO_FALLA": "MEP",
+  "DESCRIPCION": "MARCAS EN PLUNGER",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76610"
+  },
+  "CODIGO_FALLA": "MFE",
+  "DESCRIPCION": "MARCADO FUERA DE ESPESIFICACION",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76611"
+  },
+  "CODIGO_FALLA": "MFP",
+  "DESCRIPCION": "MARCADO FUERA DE POSICION",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76612"
+  },
+  "CODIGO_FALLA": "MN",
+  "DESCRIPCION": "MARCAS DE NIDO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76613"
+  },
+  "CODIGO_FALLA": "MP",
+  "DESCRIPCION": "MARCAS DE PINZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76614"
+  },
+  "CODIGO_FALLA": "MR",
+  "DESCRIPCION": "MARCAS EN ROLADO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76615"
+  },
+  "CODIGO_FALLA": "MROA",
+  "DESCRIPCION": "MOVIMIENTO RADIAL O AXIAL",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76616"
+  },
+  "CODIGO_FALLA": "MTP",
+  "DESCRIPCION": "MANTENIMIENTO PREVENTIVO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76617"
+  },
+  "CODIGO_FALLA": "NCPC",
+  "DESCRIPCION": "NO COLOCA PIEZA EN COLLET",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76618"
+  },
+  "CODIGO_FALLA": "NDB",
+  "DESCRIPCION": "NO DETECTA BALIN",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76619"
+  },
+  "CODIGO_FALLA": "NDP",
+  "DESCRIPCION": "NO DETECTA PIEZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7661a"
+  },
+  "CODIGO_FALLA": "NEC",
+  "DESCRIPCION": "NO EXPULSA CORRECTAMENTE",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7661b"
+  },
+  "CODIGO_FALLA": "NEM",
+  "DESCRIPCION": "NO ENCIENDE MAQUINA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7661c"
+  },
+  "CODIGO_FALLA": "NFM",
+  "DESCRIPCION": "NO FUNCIONA MANIVELA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7661d"
+  },
+  "CODIGO_FALLA": "NHH",
+  "DESCRIPCION": "NO HAY HERRAMIENTA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7661e"
+  },
+  "CODIGO_FALLA": "NHM",
+  "DESCRIPCION": "NO HAY MATERIAL",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7661f"
+  },
+  "CODIGO_FALLA": "NIC",
+  "DESCRIPCION": "NO INICIA CICLO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76620"
+  },
+  "CODIGO_FALLA": "NMP",
+  "DESCRIPCION": "NO MARCA PIEZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76621"
+  },
+  "CODIGO_FALLA": "NP",
+  "DESCRIPCION": "NO PRENSA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76622"
+  },
+  "CODIGO_FALLA": "NPA",
+  "DESCRIPCION": "NO TIENE PRESION DE AIRE",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76623"
+  },
+  "CODIGO_FALLA": "NPF",
+  "DESCRIPCION": "NO PASO PRUEBA DE FUGA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76624"
+  },
+  "CODIGO_FALLA": "NPFZ",
+  "DESCRIPCION": "NO PASO PRUEBA DE FUERZA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76625"
+  },
+  "CODIGO_FALLA": "NPG",
+  "DESCRIPCION": "NO PASA GOLDEN",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76626"
+  },
+  "CODIGO_FALLA": "OC",
+  "DESCRIPCION": "ORDEN CANCELADA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76627"
+  },
+  "CODIGO_FALLA": "PA",
+  "DESCRIPCION": "PIEZA ATORADA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76628"
+  },
+  "CODIGO_FALLA": "PAR",
+  "DESCRIPCION": "PIEZA ATORADA EN RIEL",
+  "TIEMPO_ESTANDAR": ""
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76629"
+  },
+  "CODIGO_FALLA": "PB",
+  "DESCRIPCION": "PROGRAMA BLOQUEADO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7662a"
+  },
+  "CODIGO_FALLA": "PCH",
+  "DESCRIPCION": "PIEZA CON CATCH",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7662b"
+  },
+  "CODIGO_FALLA": "PCM",
+  "DESCRIPCION": "PROBLEMAS CON MATERIAL",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7662c"
+  },
+  "CODIGO_FALLA": "PD",
+  "DESCRIPCION": "PIEZA DESPLATINADA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7662d"
+  },
+  "CODIGO_FALLA": "PE",
+  "DESCRIPCION": "PROBLEMA ELECTRICO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7662e"
+  },
+  "CODIGO_FALLA": "PF",
+  "DESCRIPCION": "PLUNGER FUERA DE POSICION",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7662f"
+  },
+  "CODIGO_FALLA": "PG",
+  "DESCRIPCION": "PIEZAS CON GAP",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76630"
+  },
+  "CODIGO_FALLA": "PMA",
+  "DESCRIPCION": "PIEZA CON MEDIDA ALTA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76631"
+  },
+  "CODIGO_FALLA": "PMB",
+  "DESCRIPCION": "PIEZA CON MEDIDA BAJA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76632"
+  },
+  "CODIGO_FALLA": "PNIH",
+  "DESCRIPCION": "PAPELERIA NO INDICA HERRAMIENTA",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76633"
+  },
+  "CODIGO_FALLA": "PRA",
+  "DESCRIPCION": "PRENSADO ABIERTO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76634"
+  },
+  "CODIGO_FALLA": "PS",
+  "DESCRIPCION": "PIEZAS CON STICK",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76635"
+  },
+  "CODIGO_FALLA": "RL",
+  "DESCRIPCION": "ROLADO LIJERO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76636"
+  },
+  "CODIGO_FALLA": "RLA",
+  "DESCRIPCION": "ROLLOVER ABIERTO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76637"
+  },
+  "CODIGO_FALLA": "RLC",
+  "DESCRIPCION": "ROLLOVER CERRADO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76638"
+  },
+  "CODIGO_FALLA": "RP",
+  "DESCRIPCION": "ROLADO PROFUNDO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf76639"
+  },
+  "CODIGO_FALLA": "SE",
+  "DESCRIPCION": "SOPORTE EXTERNO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7663a"
+  },
+  "CODIGO_FALLA": "SETUP",
+  "DESCRIPCION": "SETUP",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7663b"
+  },
+  "CODIGO_FALLA": "SR",
+  "DESCRIPCION": "SIN ROLADO",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7663c"
+  },
+  "CODIGO_FALLA": "DES",
+  "DESCRIPCION": "DESAYUNO - 25 MIN",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7663d"
+  },
+  "CODIGO_FALLA": "COM",
+  "DESCRIPCION": "COMIDA - 30 MIN",
+  "TIEMPO_ESTANDAR": "0:00"
+},
+{
+  "_id": {
+    "$oid": "6716e7fa7dc18758daf7663e"
+  },
+  "CODIGO_FALLA": "RES",
+  "DESCRIPCION": "RESESO -15 MIN",
+  "TIEMPO_ESTANDAR": "0:00"
+}]
