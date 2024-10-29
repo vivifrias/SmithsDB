@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "67213b4e6f875e3495ea4ef6"
+  },
+  "USUARIO": "U01234",
+  "NOMBRE": "Raul Ramirez",
+  "CORREO": "raul@smiths.com",
+  "CONTRASENA": "raul",
+  "ROL": "admin"
+},
+{
+  "_id": {
+    "$oid": "67213b4e6f875e3495ea4ef7"
+  },
+  "USUARIO": "U043210",
+  "NOMBRE": "Roberto Camacho",
+  "CORREO": "roberto@smiths.com",
+  "CONTRASENA": "roberto",
+  "ROL": "dispatcher"
+},
+{
+  "_id": {
+    "$oid": "67213b4e6f875e3495ea4ef8"
+  },
+  "USUARIO": "U12340",
+  "NOMBRE": "Andres Garcia",
+  "CORREO": "andres@smiths.com",
+  "CONTRASENA": "andres",
+  "ROL": "supervisor"
+},
+{
+  "_id": {
+    "$oid": "67213b4e6f875e3495ea4ef9"
+  },
+  "USUARIO": "U4321",
+  "NOMBRE": "Jorge Cerda",
+  "CORREO": "jorge@smiths.com",
+  "CONTRASENA": "jorge",
+  "ROL": "operador"
+},
+{
+  "_id": {
+    "$oid": "67213b4e6f875e3495ea4efa"
+  },
+  "USUARIO": "U11111",
+  "NOMBRE": "Vivien Frias",
+  "CORREO": "vivien@smiths.com",
+  "CONTRASENA": "vivien",
+  "ROL": "tecnico"
+}]
