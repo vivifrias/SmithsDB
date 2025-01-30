@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc6554"
+  },
+  "maquina": "SCR712",
+  "numeroEmpleado": "3797",
+  "codigoFalla": "MTP",
+  "numParte": "P001",
+  "comentarios": "MTO AL COLLET",
+  "proceso": "",
+  "descripcionFalla": "MANTENIMIENTO PREVENTIVO",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "7:14:22",
+  "turno": 1,
+  "tecnicoAsignado": "DANIEL ALFARO",
+  "horaAsignacion": "7:26:08",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "7:26:58",
+  "descripcionMantenimiento": "SE LE DIO MANTENIMIENTO AL COLLET, ME QUEDE EN LA LIMPIEZA",
+  "codigoCausa": "CR01",
+  "causaRaiz": "FALLA NATURAL DE PARTES POR USO O ENJEVECIMIENTO ( NO CONSUMIBLES)",
+  "horaTermino": "7:41:17",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "00:15:09",
+  "tiempoMuertoTotal": "00:26:55",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc6555"
+  },
+  "maquina": "SC152",
+  "numeroEmpleado": "4545",
+  "codigoFalla": "GA",
+  "numParte": "P002",
+  "comentarios": "GAGE ABIERTO",
+  "proceso": "",
+  "descripcionFalla": "GAGE ABIERTO",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "7:37:41",
+  "turno": 1,
+  "tecnicoAsignado": "OSCAR ESPINOBARROS",
+  "horaAsignacion": "7:40:08",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "7:40:15",
+  "descripcionMantenimiento": "AJUSTE DE TORNILLO DE LLEGADA DE NAVAJA",
+  "codigoCausa": "CR01",
+  "causaRaiz": "FALLA NATURAL DE PARTES POR USO O ENJEVECIMIENTO ( NO CONSUMIBLES)",
+  "horaTermino": "8:18:15",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "00:38:07",
+  "tiempoMuertoTotal": "00:40:34",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc6556"
+  },
+  "maquina": "SC29",
+  "numeroEmpleado": "4557",
+  "codigoFalla": "GA",
+  "numParte": "P003",
+  "comentarios": "GAGE ABIERTO",
+  "proceso": "",
+  "descripcionFalla": "GAGE ABIERTO",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "7:39:19",
+  "turno": 1,
+  "tecnicoAsignado": "DANIEL ALFARO",
+  "horaAsignacion": "7:40:12",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "7:40:17",
+  "descripcionMantenimiento": "CERRADO POR MEDIO DEL OPRESOR DE NAVAJA CON LLAVE ALLEN",
+  "codigoCausa": "CR01",
+  "causaRaiz": "FALLA NATURAL DE PARTES POR USO O ENJEVECIMIENTO ( NO CONSUMIBLES)",
+  "horaTermino": "8:14:03",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "00:33:46",
+  "tiempoMuertoTotal": "00:34:44",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc6557"
+  },
+  "maquina": "SC146",
+  "numeroEmpleado": "4559",
+  "codigoFalla": "CNJ",
+  "numParte": "P001",
+  "comentarios": "",
+  "proceso": "",
+  "descripcionFalla": "COLLET NO SUJETA PIEZA",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "7:44:11",
+  "turno": 1,
+  "tecnicoAsignado": "ABEL HUMBERTO",
+  "horaAsignacion": "7:50:51",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "7:50:55",
+  "descripcionMantenimiento": "SE LIMPIO COLLET CON PULISH PARA RETIRAR OXIDO",
+  "codigoCausa": "CR01",
+  "causaRaiz": "FALLA NATURAL DE PARTES POR USO O ENJEVECIMIENTO ( NO CONSUMIBLES)",
+  "horaTermino": "8:11:31",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "00:20:36",
+  "tiempoMuertoTotal": "00:27:20",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc6558"
+  },
+  "maquina": "SC46",
+  "numeroEmpleado": "4552",
+  "codigoFalla": "ADN",
+  "numParte": "P002",
+  "comentarios": "SE SALIO RESORTE",
+  "proceso": "",
+  "descripcionFalla": "AJUSTE DE NAVAJA",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "7:46:29",
+  "turno": 1,
+  "tecnicoAsignado": "PEDRO OLALDE",
+  "horaAsignacion": "7:54:36",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "7:54:44",
+  "descripcionMantenimiento": "SE REEMPLAZO RESORTE POR UNO NUEVO Y SE LE DIO LIMPIEZA",
+  "codigoCausa": "CR01",
+  "causaRaiz": "FALLA NATURAL DE PARTES POR USO O ENJEVECIMIENTO ( NO CONSUMIBLES)",
+  "horaTermino": "8:17:05",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "00:22:21",
+  "tiempoMuertoTotal": "00:30:36",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc6559"
+  },
+  "maquina": "SC153",
+  "numeroEmpleado": "4556",
+  "codigoFalla": "GC",
+  "numParte": "P003",
+  "comentarios": "",
+  "proceso": "",
+  "descripcionFalla": "GAGE CERRADO",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "7:48:20",
+  "turno": 1,
+  "tecnicoAsignado": "DANIEL ALFARO",
+  "horaAsignacion": "8:07:19",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "8:17:22",
+  "descripcionMantenimiento": "GAGE YA ESTABA BIEN, FALTA DE PROCEDIMIENTO POR PARTE DE OPERADOR",
+  "codigoCausa": "CR01",
+  "causaRaiz": "FALLA NATURAL DE PARTES POR USO O ENJEVECIMIENTO ( NO CONSUMIBLES)",
+  "horaTermino": "8:25:02",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "00:07:40",
+  "tiempoMuertoTotal": "00:36:42",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679ad91501bc41c03dcc655a"
+  },
+  "maquina": "PR1239",
+  "numeroEmpleado": "4547",
+  "codigoFalla": "MR",
+  "numParte": "P001",
+  "comentarios": "ROD DESNIVELADO",
+  "proceso": "",
+  "descripcionFalla": "MARCAS EN ROLADO",
+  "fechaReporte": "5/3/24",
+  "horaReporte": "8:05:30",
+  "turno": 1,
+  "tecnicoAsignado": "ABEL HUMBERTO",
+  "horaAsignacion": "8:12:05",
+  "asistenciaTecnica": "X",
+  "horaAsistencia": "8:12:11",
+  "descripcionMantenimiento": "SE CENTRO EL NIDO EN PRENSA, YA QUE ESTABA RECARGADO",
+  "codigoCausa": "CR05",
+  "causaRaiz": "PROBLEMAS DE DISEÑO O ADAPTACIONES DEL EQUIPO",
+  "horaTermino": "9:38:22",
+  "fechaTermino": "5/3/24",
+  "tiempoAjuste": "01:26:11",
+  "tiempoMuertoTotal": "01:32:52",
+  "estado": "Cerrado",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T01:42:45.074Z"
+  }
+}]
